@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante o evento **NLW Agents** da Rocketseat. Uma aplicação de perguntas e respostas em tempo real, construída com tecnologias modernas do ecossistema React.
 
+![Cover do projeto Let me ask](./.github/screenshot.png)
+
 ## 🚀 Tecnologias
 
 - **React 19** - Biblioteca para construção de interfaces de usuário
